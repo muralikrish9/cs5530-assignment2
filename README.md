@@ -5,7 +5,7 @@ Two notebooks, one for each question.
 ## Setup
 
 
-```
+
 
 ## Q1: Used cars data preparation (20 pts)
 
