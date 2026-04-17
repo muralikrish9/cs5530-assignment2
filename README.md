@@ -4,8 +4,7 @@ Two notebooks, one for each question.
 
 ## Setup
 
-```bash
-pip install pandas numpy matplotlib jupyter
+
 ```
 
 ## Q1: Used cars data preparation (20 pts)
